@@ -25,11 +25,13 @@ The Pipeline is divided broadly into three components based on the workflow and 
      <img align="center" src="assets/Images/Hardware_setup_outline.png" width="450">
   7. Python 3.3.8
   8. OpenCV 4.6.0
+  9. Connectivity between Unity and Python using TCP/IP.
+     <img align="center" src="assets/Images/TCP_IP.png" width="450">
 
 
 # Results
 1. The first video shows the hardware implementation on the top left shows the test bench's heading and relative position from the lane, and center image is the BEV from four camera, top right shows the test setup as its driving(click on the image to watch the video).
 [![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/assets/Images/hardware.png?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_hardware.mp4)
-1. The sencond video shows the unity implementation on the top left window shows the BEV with Car's heading and relative position from the lane, and center window is the unity simulator as the user drives the Car(click on the image to watch the video).
+2. The sencond video shows the unity implementation on the top left window shows the BEV with Car's heading and relative position from the lane, and center window is the unity simulator as the user drives the Car(click on the image to watch the video).
 [![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/assets/Images/unity.png?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_simulation.mp4)
 
