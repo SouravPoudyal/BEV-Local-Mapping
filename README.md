@@ -24,5 +24,5 @@ Requirements:
   6. OpenCV 4.6.0
 
 Results:
-[![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/images/video_thumbnail.jpg?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_hardware.mp4)
+[![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/assets/Images/hardware.png?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_hardware.mp4)
 
