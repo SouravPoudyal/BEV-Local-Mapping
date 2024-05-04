@@ -18,11 +18,18 @@ The Pipeline is divided broadly into three components based on the workflow and 
 Requirements:
   1. Unity (2021.3.15.f1 or later)
   2. Computing Platform( e.g. NVDIA Jetson Xavier)
-  3. Four Cameras (e.g. Fish Eye Camera)
-  4. Auxiliary hardwares (Display, I/O devices, USB Interfaces)
-  5. Python 3.3.8
-  6. OpenCV 4.6.0
+     <img align="center" src="assets/Images/jetson_xavier.png" width="350">
+  4. Four Cameras (e.g. Fish Eye Camera)
+     <img align="center" src="assets/Images/fish_eye_camera.png" width="350">
+  5. Auxiliary hardwares (Display, I/O devices, USB Interfaces)
+     <img align="center" src="assets/Images/Hardware_setup_outline.png" width="450">
+  7. Python 3.3.8
+  8. OpenCV 4.6.0
 
-Results:
+
+Results(click on the image to watch the video)
+1. The first video shows the hardware implementation on the top left shows the test bench's heading and relative position from the lane, and center image is the BEV from four camera, top right shows the test setup as its driving.
 [![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/assets/Images/hardware.png?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_hardware.mp4)
+1. The sencond video shows the unity implementation on the top left window shows the BEV with Car's heading and relative position from the lane, and center window is the unity simulator as the user drives the Car.
+[![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/assets/Images/unity.png?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_simulation.mp4)
 
