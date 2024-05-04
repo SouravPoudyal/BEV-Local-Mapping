@@ -24,8 +24,5 @@ Requirements:
   6. OpenCV 4.6.0
 
 Results:
-<p align="center">
-  <video width="750" controls>
-    <source src="assets/Videos/demo_hardware.mp4" type="video/mp4">
-  </video>
-</p>
+[![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/images/video_thumbnail.jpg?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_hardware.mp4)
+
