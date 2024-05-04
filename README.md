@@ -18,9 +18,9 @@ The Pipeline is divided broadly into three components based on the workflow and 
 Requirements:
   1. Unity (2021.3.15.f1 or later)
   2. Computing Platform( e.g. NVDIA Jetson Xavier)
-     <img align="center" src="assets/Images/jetson_xavier.png" width="350">
+     <img align="center" src="assets/Images/jetson_xavier.png" width="150">
   4. Four Cameras (e.g. Fish Eye Camera)
-     <img align="center" src="assets/Images/fish_eye_camera.png" width="350">
+     <img align="center" src="assets/Images/fish_eye_camera.png" width="150">
   5. Auxiliary hardwares (Display, I/O devices, USB Interfaces)
      <img align="center" src="assets/Images/Hardware_setup_outline.png" width="450">
   7. Python 3.3.8
