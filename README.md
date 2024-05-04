@@ -43,3 +43,8 @@ The Pipeline is divided broadly into three components based on the workflow and 
 2. The sencond video shows the unity implementation on the top left window shows the BEV with Car's heading and relative position from the lane, and center window is the unity simulator as the user drives the Car(click on the image to watch the video).
 [![Watch the Video](https://github.com/SouravPoudyal/BEV-Local-Mapping/blob/main/assets/Images/unity.png?raw=true)](https://github.com/SouravPoudyal/BEV-Local-Mapping/raw/main/assets/Videos/demo_simulation.mp4)
 
+# Conclusion
+1. The BEV from the cameras and localized the vehicle by obtaining the position and heading information with respect to lanes.
+2. The final output is obtained at around 16 FPS.
+3. This task has been simulated in Unity and implemented in real hardware. 
+
