@@ -16,17 +16,25 @@ The Pipeline is divided broadly into three components based on the workflow and 
 <img align="center" src="assets/Images/Pipeline.png" width="750">
 
 # Requirements:
-  1. Unity (2021.3.15.f1 or later)
-  2. Computing Platform( e.g. NVDIA Jetson Xavier)
-     <img align="center" src="assets/Images/jetson_xavier.png" width="150">
-  4. Four Cameras (e.g. Fish Eye Camera)
-     <img align="center" src="assets/Images/fish_eye_camera.png" width="150">
-  5. Auxiliary hardwares (Display, I/O devices, USB Interfaces)
-     <img align="center" src="assets/Images/Hardware_setup_outline.png" width="450">
-  7. Python 3.3.8
-  8. OpenCV 4.6.0
-  9. Connectivity between Unity and Python using TCP/IP.
-     <img align="center" src="assets/Images/TCP_IP.png" width="450">
+1. Unity (2021.3.15.f1 or later)
+2. Computing Platform (e.g., NVIDIA Jetson Xavier)  
+   <p align="center">
+      <img src="assets/Images/jetson_xavier.png" width="150">
+   </p>
+3. Four Cameras (e.g., Fish Eye Camera)  
+   <p align="center">
+      <img src="assets/Images/fish_eye_camera.png" width="150">
+   </p>
+4. Auxiliary hardwares (Display, I/O devices, USB Interfaces)  
+   <p align="center">
+      <img src="assets/Images/Hardware_setup_outline.png" width="450">
+   </p>
+5. Python 3.3.8
+6. OpenCV 4.6.0
+7. Connectivity between Unity and Python using TCP/IP  
+   <p align="center">
+      <img src="assets/Images/TCP_IP.png" width="750">
+   </p>
 
 
 # Results
